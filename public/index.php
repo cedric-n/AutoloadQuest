@@ -3,7 +3,7 @@
 use App\Wcs\Hello;
 use HelloWorld\SayHello;
 
-$loader = require __DIR__ . '/../vendor/autoload.php';
+require __DIR__ . '/../vendor/autoload.php';
 
 
 $presentation = new Hello();
