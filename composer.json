@@ -12,5 +12,7 @@
             "App\\Wcs\\": "src/Wcs"
         }
     },
-    "require": {}
+    "require": {
+        "ehime/hello-world": "^1.0"
+    }
 }
